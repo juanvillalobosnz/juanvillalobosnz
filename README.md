@@ -1,4 +1,4 @@
-##  Hola, soy Jair Villalobos, Full Stack Developer
+##  Hola, soy Jair Villalobos, Full stack developer
 <div align="left">
   <a href="https://github.com/jairvillalobos">
 </div>
