@@ -49,6 +49,6 @@
 <div>
     <img class="pt-1 mb-1" src="https://img.shields.io/badge/Cypress-100000?style=for-the-badge&amp;logo=cypress&amp;logoColor=white">
     <img class="pt-1 mb-1" src="https://img.shields.io/badge/Cucumber-43853D?style=for-the-badge&amp;logo=cucumber&amp;logoColor=white">
-</div>
+</div><br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfs-jairvillalobos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
