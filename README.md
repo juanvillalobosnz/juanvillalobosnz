@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tigo Money](https://play.google.com/store/apps/details?id=gt.tigo.mfsapp&hl=en_US&gl=US)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning  **Go**
 
 - 👨‍💻 All of my projects are available at [https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io/)
 
