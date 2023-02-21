@@ -12,11 +12,3 @@
 - 📫 How to reach me **juanjair2018hotmail.com**
 
 - ⚡ Fun fact **I usually play with the animations of video conferencing apps**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/jairvillalobos](https://www.linkedin.com/in/jair-villalobos-b06ba621b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jair villalobos" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jairvillalobosn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jairvillalobosn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
