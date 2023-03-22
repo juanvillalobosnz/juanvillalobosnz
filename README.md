@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Go (programming language)**
 
 - 👨‍💻 All of my projects are available at
-[https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io/)
+[https://mfs-jairvillalobos.github.io/](https://mfs-jairvillalobos.github.io/public/)
 
 - 💬 Ask me about **Web development and custom software design**
 
