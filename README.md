@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Hi 🧑🏾‍💻, I'm Jair Villalobos</h1>
-<h3 align="center"Backend Engineer (APIs & Microservices) | Go, Python & TypeScript
-| AWS, Docker, Kubernetes | Security Enthusiast</h3>
+<h3 align="center"Backend Engineer (APIs & Microservices) | Go, Python & TypeScript| AWS, Docker, Kubernetes | Security Enthusiast</h3>
 
 - 🔭 I’m currently working on: [Tigo Money](https://tigomoney.com/gt/home-gt) 💰
 - 🌱 I’m currently learning **Python 🐍, Go (programming language) 🐹, and React ⚛️**
