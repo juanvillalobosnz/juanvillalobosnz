@@ -4,7 +4,7 @@
 
 -  I’m currently working on: [Tigo Money](https://tigomoney.com/gt/home-gt) 
 -  I’m currently learning **Python , Go (programming language) , and React ⚛️**
-- ‍ All of my projects are available at my portfolio [here](https://jairvillalobos.github.io/)
+- ‍ All of my projects are available at my portfolio [here](https://juanvillalobosnz.github.io/)
 -  Ask me about **Web development  and custom software design**
 - ⚡ Fun fact: **I usually play with the animations of video conferencing apps**
 
