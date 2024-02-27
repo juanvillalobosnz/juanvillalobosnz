@@ -2,7 +2,7 @@
 
 ##  Full stack developer | Backend | Python | Go | TypeScript | Backend | Python | Go | TypeScript
 
--  I’m currently working on: [Tigo Money](https://tigomoney.com/gt/home-gt) 
+-  I’m currently working on: [Tigo Money](https://tigomoney.com/gt/que-es-tigo-money-gt) 
 -  I’m currently learning **Python , Go (programming language) , and React ⚛️**
 - ‍ All of my projects are available at my portfolio [here](https://juanvillalobosnz.github.io/)
 -  Ask me about **Web development  and custom software design**
