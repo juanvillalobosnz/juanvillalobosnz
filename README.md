@@ -1,8 +1,6 @@
 # Welcome to my profile
 ![Blue And Green Professional Technology LinkedIn Banner](https://github.com/juanvillalobosnz/juanvillalobosnz/assets/53276949/8dee4cf6-120c-4f8c-bef0-2f844d52aa58)
 
-I am a software developer with more than 5 years of experience in Python, Golang and web frameworks such as Django and Gin.
-
 ## Main Skills
 
 - Development of scalable RESTful APIs with Golang (Gin) and Python (Django REST Framework)
