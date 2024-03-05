@@ -32,7 +32,3 @@ I have good communication and teamwork skills.
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juanvillalobosnz/)
-
-## GitHub Stats
-
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=juanvillalobosnz&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
